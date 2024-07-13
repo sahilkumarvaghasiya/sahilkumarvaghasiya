@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkumarvaghasiya&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkumarvaghasiya" /> </p>
 
-- 🔭 I’m currently working in Präzi-Flachstahl AG **Data Analytics and Machine Learning**
+- 🔭 I’m currently working in langchain and Huggingface project**
 
 - 🌱 I’m currently learning **LangChain and Prompt Engineering**
 
