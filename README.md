@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkumarvaghasiya&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkumarvaghasiya" /> </p>
 
-- 🔭 I’m currently working  as an AI Engineer(T-shaped developer) at Techmaker GmbH, a Joint venture of Deutsche Telekom and SK Telekom **
+- 🔭 I’m currently working  as an **AI Engineer(T-shaped developer) at Techmaker GmbH, a Joint venture of Deutsche Telekom and SK Telekom **
 
-- 🌱 I’m currently doing research (Master Thesis) in ** Concept Drift Adaptation (Machine Learning) **
+- 🌱 I’m currently doing research (Master Thesis) in **Concept Drift Adaptation (Machine Learning)**
 
 - 📫 How to reach me **sahilkumar.vaghasiya@fau.de**
 
