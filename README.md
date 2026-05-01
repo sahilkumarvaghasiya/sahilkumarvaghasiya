@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working  as an **AI Engineer(T-shaped developer) at Techmaker GmbH, a Joint venture of Deutsche Telekom and SK Telekom **
 
-- 🌱 I’m currently doing research (Master Thesis) in **Concept Drift Adaptation (Machine Learning)**
+- 🌱 Research - (Master Thesis) in **Concept Drift Adaptation (Machine Learning)**
 
-- 📫 How to reach me **sahilkumar.vaghasiya@fau.de**
+- 📫 How to reach me **sahilkumarvaghasiya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
